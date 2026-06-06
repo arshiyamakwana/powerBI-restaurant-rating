@@ -193,9 +193,19 @@ Food_Rating_Category = SWITCH(
     The top five restaurants with high customer satisfaction ratings are Tortas Locas Hipocampo, where most consumers are highly satisfied, and Puesto de Tacos, which has received 30 highly satisfied consumer ratings. Cafeteria y Restaurante El Pacífico follows closely with 24 consumers rating it as highly satisfactory, while La Cantina Restaurante boasts 28 highly satisfied ratings. Rounding out the list, Restaurant la Chalita has garnered 20 high satisfaction ratings from its customers.
   
 ## Dashboard
-![Restaurant Ratings Analysis_page-0001](https://github.com/karlyndiary/Restaurant-Ratings-Analysis/assets/116041695/d60cc2b1-5067-4806-8163-bad81914dbd8)
-![Restaurant Ratings Analysis_page-0002](https://github.com/karlyndiary/Restaurant-Ratings-Analysis/assets/116041695/d31ff0e5-fe29-4d03-80b7-c86f6ee4a665)
-![Restaurant Ratings Analysis_page-0003](https://github.com/karlyndiary/Restaurant-Ratings-Analysis/assets/116041695/e5d81101-0b31-4969-8556-904dcf398737)
-![Restaurant Ratings Analysis_page-0004](https://github.com/karlyndiary/Restaurant-Ratings-Analysis/assets/116041695/800542ef-077e-4ed1-947e-b3e3cd7b825d)
-![Restaurant Ratings Analysis_page-0005](https://github.com/karlyndiary/Restaurant-Ratings-Analysis/assets/116041695/55afce3c-8178-4868-9269-0c4e716d8110)
+<img width="1396" height="750" alt="image" src="https://github.com/user-attachments/assets/d3003c03-5982-4671-8add-af3f7ecf85cf" />
+
+<img width="1384" height="831" alt="image" src="https://github.com/user-attachments/assets/caa26a8d-7613-450a-8fd2-4fa65918779c" />
+
+<img width="1369" height="805" alt="image" src="https://github.com/user-attachments/assets/2afc6c0c-fcb5-453a-af7f-ec4157063e45" />
+
+<img width="1363" height="815" alt="image" src="https://github.com/user-attachments/assets/13f48627-e37f-4820-9587-c7d3f575c8d4" />
+
+<img width="1366" height="813" alt="image" src="https://github.com/user-attachments/assets/69bd033a-d931-4ebf-83b6-e49d0e9ff345" />
+
+
+
+
+
+
 
